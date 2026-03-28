@@ -1,7 +1,8 @@
 [Plymouth Theme]
 Name=DedSec_Boot_Splash_Screen
 Description=DedSec Themed BSS made iwht fan kit images
+ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/dedsec-boot-splashscreen/images
-ScriptFile=/usr/share/plymouth/themes/dedsec-boot-splashscreen/dedsec-boot-splash-screen.script
+ImageDir=/usr/share/plymouth/themes/dedsec-boot-splash-screen/images
+ScriptFile=/usr/share/plymouth/themes/dedsec-boot-splash-screen/dedsec-boot-splash-screen.script
